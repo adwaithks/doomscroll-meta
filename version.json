@@ -1,5 +1,5 @@
 {
-  "versionCode": 2,
+  "versionCode": 5,
   "versionName": "1.0-beta",
-  "releaseNotes": "Initial release."
+  "releaseNotes": "Redesigned the permission setup flow into clear step-by-step screens, fixed text contrast in light/dark mode, and improved app scanning performance."
 }
