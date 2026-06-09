@@ -1,5 +1,5 @@
 {
-  "versionCode": 6,
+  "versionCode": 5,
   "versionName": "1.0-beta",
   "apkUrl": "https://play.google.com/store/apps/details?id=com.doomscroll",
   "releaseNotes": "Redesigned the permission setup flow into clear step-by-step screens, fixed text contrast in light/dark mode, and improved app scanning performance."
